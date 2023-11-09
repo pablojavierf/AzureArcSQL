@@ -5,5 +5,7 @@ The content was made to help presenting with a more technical perspective where 
 If you need any additional guidance feel free to reach out.
 pablojavierf@microsoft.com
 
+
 Pablo Fernandez
+
 LATAM ACE - SQL Modernization
