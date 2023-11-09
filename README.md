@@ -17,6 +17,7 @@ You can follow the videos as you need. Here you have an order suggestion to tell
   In the next video you will see how this information could get summarized.
   
 - Reporting with Dashboards
+  Take a look at the information gathered as custom visuals
 
 If you need any additional guidance feel free to reach out.
 pablojavierf@microsoft.com
